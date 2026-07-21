@@ -1,0 +1,15 @@
+pages\DetailPage.class
+utilities\CustomSoftAssert.class
+base\BaseClass.class
+pages\RoleDetailsPage.class
+pages\LoginPage.class
+utilities\FileUtility.class
+utilities\ExtentManager.class
+utilities\ListenerImplementation.class
+pages\HomePage.class
+utilities\PropertiesUtility.class
+utilities\ExcelUtility.class
+pages\MainPage.class
+pages\SignUpPage.class
+utilities\WaitUtility.class
+factory\DriverFactory.class
