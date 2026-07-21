@@ -1,4 +1,4 @@
-# AlmaShines Sign Up Automation
+# AlmaShines Automation Framework
 
 ## Overview
 
